@@ -9,6 +9,6 @@
 </div>
 
 
-欢迎学习我的 Github 主页：
+欢迎来到我的 Github 主页：
 
 https://github.com/NuyoahCh

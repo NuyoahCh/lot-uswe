@@ -1,3 +1,14 @@
+## 变更类型
+- [ ] feat: 新功能
+- [ ] fix: 修复问题
+- [ ] docs: 文档更新
+- [ ] refactor: 重构（不影响功能）
+- [ ] perf: 性能优化
+- [ ] test: 测试相关
+- [ ] build: 构建/依赖相关
+- [ ] ci: CI/CD
+- [ ] chore: 其他杂项
+
 ## 关联 Issue
 <!-- 例如：Closes #123 -->
 

@@ -1,19 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Wood-Q/Wood-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 NuyoahCh，拥抱开源，创造价值，致力于把复杂的问题讲清楚。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuyoahCh)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuyoahCh&layout=compact&theme=tokyonight)
+<div style="align-items: center; display: flex;">
+<a target='_blank' href="https://github.com/NuyoahCh">
+  <img style="display:inline;margin:initial;max-height:140px" src="https://github-readme-stats.vercel.app/api?username=NuyoahCh&count_private=true&hide=prs,contribs&show_icons=true&theme=transparent" />
+</a>
+</div>
